@@ -1,0 +1,84 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.nav-item{
+    font-size: 18px;
+    padding: 0 8px;
+}
+.navbar-brand img{
+    width: 140px;
+    height: auto;
+}
+.butoom-st{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 5px;
+}
+.carousel-indicators [data-bs-target]{
+    
+    background-color: rgb(255, 196, 0);
+}
+.text-1{
+    margin-top: 110px;
+}
+.carousel-control-prev-icon{
+    visibility: hidden;
+}
+.card{
+    border: none;
+    margin-top: 20px;
+    
+}
+.card img{
+    width: 300px;
+    height: auto;
+    margin: auto;
+}
+.card-body{
+    text-align: center;
+}
+.tc{
+    font-weight: 400;
+    text-align: center;  
+    margin-top: 35px;
+
+}
+.bd{
+    border: 3px solid yellow;
+    display: inline-block;
+    width: 100px;
+    height: 0;
+    
+}
+.ta{
+    text-align: center;
+}
+.s-img{
+    margin-top: 257px;
+}
+.s-img h3{
+    text-align: center;
+    margin-top: 20px;
+}
+.d-img{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.d-img h3{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.f-img{
+    margin-left: 200px;
+    
+}
+.f-img{
+    text-align: center;
+    margin-top: 20px;
+}
